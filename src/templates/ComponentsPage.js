@@ -15,11 +15,11 @@ export const ComponentsPageTemplate = ({
   subtitle,
   featuredImage,
   section1,
-  section2,
-  video,
-  videoPoster,
-  videoTitle,
-  accordion,
+  // section2,
+  // video,
+  // videoPoster,
+  // videoTitle,
+  // accordion,
   body,
   gallery
 }) => (
@@ -42,13 +42,13 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Content source={section2} />
       </div>
-    </section>
+    </section> */}
 
-    <section className="BackgroundVideo-section section">
+    {/* <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
@@ -59,7 +59,7 @@ export const ComponentsPageTemplate = ({
         <Accordion items={accordion} />
       </div>
     </section>
-
+ */}
     <section className="section">
       <div className="container">
         <Popup>
