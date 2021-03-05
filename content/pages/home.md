@@ -1,30 +1,21 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: INDIA'S VERY OWN GRAND CANYON
+featuredImage: 'https://ucarecdn.com/a7944093-a652-472e-8ae9-7019967967ec/'
+subtitle: ' Best camping site in Gandikota.'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Camping tents in Gandikota.
+  title: tentsingandikota
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+GANDIKOTA - INDIA'S VERY OWN GRAND CANYON. FORMED BETWEEN THE ERRAMALA RANGE OF HILLS, ALSO KNOWN AS GANDIKOTA HILLS AND THE RIVER PENNAR THAT FLOWS AT ITS FOOT, THIS GORGE LOOKS LIKE MULTI LAYERED CAKE.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Gandikota Adventure Clubis specialized in offering a number of adventure activities in Gandikota like Camping at Gandikota Canyon, Bonfire, Trekking, Kayaking and Home made delicious food.
 
-# Features
+# our activities
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+- Bonfire
+- Trekking
+- Kayaking
+- Home made delicious food

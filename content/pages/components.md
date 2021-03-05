@@ -1,44 +1,50 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Packages
+featuredImage: https://ucarecdn.com/44475255-eb80-4c06-81d4-683ed9e8b55f/
+subtitle: Come and explore Gandikota Camping
 section1: >-
-  ## This is a container component
+  ## Packages
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: >-
-  ## You can use videos, images and text.
+  Tents in Gandikota is specialized in offering a number of adventure activities in Gandikota like Camping at Gandikota Canyon, Bonfire, Trekking, Kayaking and Home made delicious food.
+# section2: >-
+#   ## You can use videos, images and text.
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
-accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+#   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+# videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+# videoTitle: Also background videos, with poster image & title overlay.
+# accordion:
+#   - description: Taciti lorem tempor quam vestibulum dis habitasse
+#     title: Taciti lorem
+#   - description: Taciti lorem tempor quam vestibulum dis habitasse
+#     title: Taciti lorem
+#   - description: Taciti lorem tempor quam vestibulum dis habitasse
+#     title: Taciti lorem
+#   - description: Taciti lorem tempor quam vestibulum dis habitasse
+#     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Sunrise
+    image: https://ucarecdn.com/c8dbc0ff-15b5-4d97-a3ba-562dbf812939/
+    title: Sunrise at Gandikota
+  - alt: Gandikota Spot
+    image: https://ucarecdn.com/15cf22fd-6b9b-4691-8a2d-21ce632d68ee/
+    title: Gandikota Spot
+  - alt: Gandikota Camping
+    image: https://ucarecdn.com/1ac12257-69be-4f43-9b8a-16a6626888e1/
+    title: Gandikota Camping
+  - alt: Gandikota Camping
+    image: https://ucarecdn.com/a307edb1-cda7-42b7-adbe-23bb1f474513/
+    title: Gandikota Camping
+  - alt: Gandikota Camping
+    image: https://ucarecdn.com/0914abf4-702c-4c8d-8225-cfbb91827210/
+    title: Gandikota Camping
+  - alt: Gandikota Camping
+    image: https://ucarecdn.com/992e2234-3e1b-4481-ad6f-e12c5db54cba/
+    title: Gandikota Camping
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Camping tents in Gandikota
+  title: tentsingandikota
 ---
