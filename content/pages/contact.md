@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/992e2234-3e1b-4481-ad6f-e12c5db54cba/
+featuredImage: https://ucarecdn.com/a7944093-a652-472e-8ae9-7019967967ec/
 subtitle: Please contact us for camping in Gandikota.
 address: 'Gandikota, Jammalamadugu, Kadapa, AP - 516434'
 phone: +91 9100892973
