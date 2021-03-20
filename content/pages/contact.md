@@ -1,27 +1,16 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Contact Us
+featuredImage: https://ucarecdn.com/992e2234-3e1b-4481-ad6f-e12c5db54cba/
+subtitle: Please contact us for camping in Gandikota.
+address: 'Gandikota, Jammalamadugu, Kadapa, AP - 516434'
+phone: +91 9100892973
+email: 
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: '14.81432616472131'
+    lng: '78.28965508796313'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
----
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+  description: Gandikota tentsingandikota contact us.
+  title: Contact us
